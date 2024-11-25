@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "title": "学习路径 AI",
+    "login": "使用 GitHub 登录"
+  },
+  "form": {
+    "title": "创建你的学习之旅",
+    "currentLevel": {
+      "label": "当前技能水平",
+      "placeholder": "例如：JavaScript 初学者"
+    },
+    "learningGoal": {
+      "label": "学习目标",
+      "placeholder": "你想达到什么目标？"
+    },
+    "dailyHours": {
+      "label": "每日学习时间",
+      "placeholder": "每天学习小时数"
+    },
+    "submit": "生成学习计划"
+  },
+  "features": {
+    "personalizedPath": {
+      "title": "个性化路径",
+      "description": "基于你的目标和时间表的 AI 驱动学习计划"
+    },
+    "timeManagement": {
+      "title": "时间管理",
+      "description": "根据你的可用时间优化学习安排"
+    },
+    "trackProgress": {
+      "title": "追踪进度",
+      "description": "通过里程碑和成就监控你的学习历程"
+    }
+  },
+  "plan": {
+    "title": "你的15天学习计划",
+    "basedOn": "基于你的目标：",
+    "export": "导出为 Markdown",
+    "day": "第",
+    "milestone": "里程碑",
+    "resources": "学习资源",
+    "startPlan": "开始学习之旅",
+    "progress": {
+      "title": "学习进度",
+      "completed": "已完成",
+      "remaining": "剩余天数",
+      "checkIn": "打卡",
+      "checked": "已打卡",
+      "notes": "添加今日笔记",
+      "save": "保存笔记"
+    },
+    "certificate": {
+      "title": "领取证书",
+      "description": "恭喜你完成学习之旅！",
+      "name": "结业证书",
+      "awarded": "授予",
+      "completion": "成功完成",
+      "date": "完成日期",
+      "download": "下载证书",
+      "share": "分享成就"
+    }
+  }
+}

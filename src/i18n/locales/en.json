@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "title": "LearnPath AI",
+    "login": "Login with GitHub"
+  },
+  "form": {
+    "title": "Create Your Learning Journey",
+    "currentLevel": {
+      "label": "Current Skill Level",
+      "placeholder": "e.g., Beginner JavaScript Developer"
+    },
+    "learningGoal": {
+      "label": "Learning Goal",
+      "placeholder": "What do you want to achieve?"
+    },
+    "dailyHours": {
+      "label": "Daily Study Hours",
+      "placeholder": "Hours per day"
+    },
+    "submit": "Generate Learning Plan"
+  },
+  "features": {
+    "personalizedPath": {
+      "title": "Personalized Path",
+      "description": "AI-powered learning plans tailored to your goals and schedule"
+    },
+    "timeManagement": {
+      "title": "Time Management",
+      "description": "Optimize your learning schedule based on your available time"
+    },
+    "trackProgress": {
+      "title": "Track Progress",
+      "description": "Monitor your learning journey with milestones and achievements"
+    }
+  },
+  "plan": {
+    "title": "Your 15-Day Learning Plan",
+    "basedOn": "Based on your goal:",
+    "export": "Export as Markdown",
+    "day": "Day",
+    "milestone": "Milestone",
+    "resources": "Resources",
+    "startPlan": "Start Learning Journey",
+    "progress": {
+      "title": "Learning Progress",
+      "completed": "Completed",
+      "remaining": "Days Remaining",
+      "checkIn": "Check-in",
+      "checked": "Checked",
+      "notes": "Add notes for today",
+      "save": "Save Notes"
+    },
+    "certificate": {
+      "title": "Claim Your Certificate",
+      "description": "Congratulations on completing your learning journey!",
+      "name": "Certificate of Completion",
+      "awarded": "This certificate is awarded to",
+      "completion": "For successfully completing",
+      "date": "Completion Date",
+      "download": "Download Certificate",
+      "share": "Share Achievement"
+    }
+  }
+}
